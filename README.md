@@ -51,4 +51,4 @@ Further Explanations About The Code For The Contributors
 - In style.css there are properties of boxes(myButton), properties of typing animation(h1 tag and span tag).
 - Different font styles,padding and line height settings are in font classes according to user choice of 1x1 2x2 3x3 4x4 5x5 visualisation.
 
-For further help, you can contact with me, onur.elbirlik@ug.bilkent.edu.tr
+For further help, you can contact with me, b.ramazan@outlook.com
